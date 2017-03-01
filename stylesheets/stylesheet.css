@@ -1,0 +1,32 @@
+/********** Base styles **********/
+*{
+  font-family: Verdana,Trebuchet,Serif;
+  background-color: #FFFFDD;
+  
+}
+
+div{
+  display: block;
+}
+
+.wexp {
+  
+}
+
+.soq{
+  
+
+}
+
+.header{
+  
+}
+
+.accen{
+  font-size: 2rem;
+}
+
+table tr td{
+  border: 1px solid black;
+  padding: 5px;
+}
